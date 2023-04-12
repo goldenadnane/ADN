@@ -28,5 +28,3 @@ Permet la pagination des données.
 [Kotlin Flow](https://developer.android.com/kotlin/flow) - Pour accéder aux données de manière séquentielle
 [Datastore](https://developer.android.com/topic/libraries/architecture/datastore) - Pour stocker les données
 dans des paires clé-valeur, dans ce cas pour stocker un booléen si la boîte de dialogue de non-responsabilité est affichée ou non
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
